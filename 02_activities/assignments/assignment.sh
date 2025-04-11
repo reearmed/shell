@@ -47,7 +47,6 @@ rm ./data/processed/user_logs/*ipaddr*
 # 8. Create a file named ./data/inventory.txt that lists all the files in the subfolders of ./data/processed
 find ./data/processed -type f > ./data/inventory.txt
 
-
 # 9. Create a file named ./data/README.md that describes the contents of the data directory
 echo "This directory contains the processed data for the DSI Consulting Inc. project. The data is organized into subdirectories for server logs, user logs, and event logs. The inventory.txt file lists all the files in the subdirectories." > ./data/README.md
 
