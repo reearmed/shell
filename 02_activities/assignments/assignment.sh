@@ -52,4 +52,4 @@ echo "This directory contains the processed data for the DSI Consulting Inc. pro
 
 ###########################################
 
-echo "Project setup is complete!"
+echo "Project setup is complete!" 
